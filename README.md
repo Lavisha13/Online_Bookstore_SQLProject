@@ -13,3 +13,10 @@ A simple **SQL-based project** that manages books, customers, orders, and invent
 - SQL (PostgreSQL)
 - pgAdmin
 
+- ## How to Run This Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Lavisha13/Online_Bookstore_SQLProject.git
+
+
